@@ -4,9 +4,9 @@ A full-stack student management system with modern UI and complete CRUD function
 
 
 ##  🚀 Live Demos
-- **Frontend (Vercel):** https://student-management-frontend.vercel.app
-- **Backend API (Render):** https://student-management-backend.onrender.com
-
+- **Frontend (Vercel):** https://student-management-system-frontend-lac.vercel.app/ 
+- **Backend API (Render):**
+- 
 ## Features
 ✅ Complete CRUD Operations
 ✅ Modern Glassmorphism UI
